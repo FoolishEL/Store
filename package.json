@@ -7,7 +7,7 @@
     "scopedRegistries": [
         {
             "name": "FoolishEL Utils",
-            "url": "https://github.com/FoolishEL/UnityUtils.git",
+            "url": "git+https://github.com/FoolishEL/UnityUtils.git",
             "type":"git",
             "scopes": [
                 "com.foolish.utils"
@@ -15,7 +15,7 @@
         }
     ],
     "dependencies": {
-        "https://github.com/FoolishEL/UnityUtils.git": "v0.0.2"
+        "com.foolish.utils": "v0.0.2"
     },
     "repository": {
         "type": "git",
