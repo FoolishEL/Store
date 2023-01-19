@@ -5,7 +5,7 @@
     "author": "Foolish ELEPHANT",
     "description": "Store, items, currency etc",
     "dependencies": {
-        "com.foolish.utils": "v0.0.2"
+        "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.0.0"
     },
     "repository": {
         "type": "git",
