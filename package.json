@@ -15,7 +15,7 @@
         }
     ],
     "dependencies": {
-        "com.foolish.utils": "v0.0.2"
+        "https://github.com/FoolishEL/UnityUtils.git": "v0.0.2"
     },
     "repository": {
         "type": "git",
