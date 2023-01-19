@@ -1,0 +1,14 @@
+{
+    "name": "com.foolish.store",
+    "displayName": "FoolishEL Store package",
+    "version": "0.0.1",
+    "author": "Foolish ELEPHANT",
+    "description": "Store, items, currency etc",
+    "dependencies": {
+        "com.foolish.utils": "v0.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FoolishEL/Store.git"
+    }
+}
