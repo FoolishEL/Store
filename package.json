@@ -8,6 +8,7 @@
         {
             "name": "FoolishEL Utils",
             "url": "https://github.com/FoolishEL/UnityUtils.git",
+            "type":"git",
             "scopes": [
                 "com.foolish.utils"
             ]
