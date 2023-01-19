@@ -5,7 +5,7 @@
     "author": "Foolish ELEPHANT",
     "description": "Store, items, currency etc",
     "dependencies": {
-        "com.foolish.utils": "https://github.com/FoolishEL/UnityUtils.git"
+        "com.foolish.utils": "git+https://github.com/FoolishEL/UnityUtils.git"
     },
     "repository": {
         "type": "git",
